@@ -1,4 +1,4 @@
-<p align="center">
+git stauts<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0b1220&height=190&section=header&text=PUBLIC%20ENGINEERING%20SHOWCASE&fontColor=ffffff&fontSize=31&fontAlignY=42&desc=Architecture%20%7C%20Systems%20Thinking%20%7C%20Verified%20Progress&descAlignY=62&descSize=15" alt="Public Engineering Showcase banner" />
 </p>
 
